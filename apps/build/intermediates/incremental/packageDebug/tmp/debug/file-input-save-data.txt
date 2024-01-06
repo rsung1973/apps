@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jul 03 23:04:58 CST 2023
+0.baseType=DIRECTORY
+0.base=C\:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

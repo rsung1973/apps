@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,26,25,24,23,20,21,19,17,11,10,12,15,14,4,5,3,6,8,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "19,1095,1022,968,911,772,839,703,623,405,357,459,571,510,114,165,65,213,309,261",
+                        "endColumns": "44,47,71,52,55,65,68,67,76,52,46,47,48,59,49,46,47,46,44,46",
+                        "endOffsets": "59,1138,1089,1016,962,833,903,766,695,453,399,502,615,565,159,207,108,255,349,303"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,148,220,273,329,395,464,532,609,662,709,757,806,866,916,963,1011,1058,1103",
+                        "endColumns": "44,47,71,52,55,65,68,67,76,52,46,47,48,59,49,46,47,46,44,46",
+                        "endOffsets": "95,143,215,268,324,390,459,527,604,657,704,752,801,861,911,958,1006,1053,1098,1145"
+                    }
+                },
+                {
+                    "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1150,1441",
+                        "endLines": "28,31",
+                        "endColumns": "12,12",
+                        "endOffsets": "1436,1596"
+                    }
+                }
+            ]
+        }
+    ]
+}

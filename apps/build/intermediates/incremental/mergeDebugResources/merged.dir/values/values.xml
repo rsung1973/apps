@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Service</string>
+    <string name="brower_err_ok">"O K"</string>
+    <string name="brower_err_prompt">"Service failed to load!"</string>
+    <string name="brower_err_title">"ERROR"</string>
+    <string name="brower_loading">"Loading..."</string>
+    <string name="brower_webtalk_call">"Calling device:"</string>
+    <string name="brower_webtalk_err">"Device call failed!"</string>
+    <string name="brower_webtalk_query">"Querying device!"</string>
+    <string name="logger_notify_title">""Service message received."</string>
+    <string name="logger_text_data">Content</string>
+    <string name="logger_text_no">NO.</string>
+    <string name="logger_text_ts">Date</string>
+    <string name="logger_view_ok">"O K"</string>
+    <string name="logger_view_title">"SMS Content"</string>
+    <string name="main_btn_apps">BROWSER</string>
+    <string name="main_btn_cook">COOK</string>
+    <string name="main_btn_logger">SMS</string>
+    <string name="main_btn_mall">MALL</string>
+    <string name="main_btn_map">MAP</string>
+    <string name="main_btn_stock">GOV</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

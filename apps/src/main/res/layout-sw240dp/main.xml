@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bkg"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" >
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_logger"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/main_btn_logger"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_logger"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_apps"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="200dp"
+            android:background="@drawable/main_btn_apps"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_apps"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_cook"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="260dp"
+            android:layout_marginTop="26dp"
+            android:background="@drawable/main_btn_cook"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_cook"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_mall"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="132dp"
+            android:background="@drawable/main_btn_mall"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_mall"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_stock"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="146dp"
+            android:background="@drawable/main_btn_stock"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_stock"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <com.dnake.widget.Button2
+            android:id="@+id/main_btn_map"
+            android:layout_width="104dp"
+            android:layout_height="104dp"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/main_btn_map"
+            android:gravity="bottom|center"
+            android:text="@string/main_btn_map"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</RelativeLayout>

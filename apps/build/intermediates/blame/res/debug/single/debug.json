@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw240dp_main.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw240dp\\main.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_ad.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw480dp\\ad.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_apps.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_apps.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_stock.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_stock.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_cook.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_cook.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_mall.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_mall.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_down.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_down.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw240dp_logger.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw240dp\\logger.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_data.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_data.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_del.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_del.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_logger.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw480dp\\logger.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_up.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_up.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_logger_view.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw480dp\\logger_view.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_main.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw480dp\\main.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_map.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_map.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\anim_translate.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\anim_scale.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_logger.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\main_btn_logger.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw240dp_logger_view.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw240dp\\logger_view.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_brower.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw480dp\\brower.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_sub_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\sub_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_bkg.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_bkg.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_bkg2.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\logger_btn_bkg2.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw240dp_ad.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw240dp\\ad.xml"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\drawable_sub_bkg2.png.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\drawable\\sub_bkg2.png"
+    },
+    {
+        "merged": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\build\\intermediates\\res\\merged\\debug\\layout-sw240dp_brower.xml.flat",
+        "source": "C:\\Project\\Android\\Awtek\\AW902S9\\apps\\apps\\src\\main\\res\\layout-sw240dp\\brower.xml"
+    }
+]

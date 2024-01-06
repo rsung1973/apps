@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">社區服務</string>
+    <string name="brower_err_ok">"確 定"</string>
+    <string name="brower_err_prompt">"系統服務加載失敗!"</string>
+    <string name="brower_err_title">"錯誤"</string>
+    <string name="brower_loading">"系統加載中，請稍後..."</string>
+    <string name="brower_webtalk_call">"正在呼叫設備:"</string>
+    <string name="brower_webtalk_err">"設備呼叫失敗!"</string>
+    <string name="brower_webtalk_query">"正在查詢設備!"</string>
+    <string name="logger_notify_title">物業信息通知</string>
+    <string name="logger_text_data">內  容</string>
+    <string name="logger_text_no">序  號</string>
+    <string name="logger_text_ts">日  期</string>
+    <string name="logger_view_ok">確  定</string>
+    <string name="logger_view_title">信  息  內  容</string>
+    <string name="main_btn_apps">社區網站</string>
+    <string name="main_btn_cook">業主專區</string>
+    <string name="main_btn_logger">公告通知</string>
+    <string name="main_btn_mall">週邊商家</string>
+    <string name="main_btn_map">社區地圖</string>
+    <string name="main_btn_stock">瓦斯登記</string>
+</resources>

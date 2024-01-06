@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Serwisy</string>
+    <string name="main_btn_logger">SMS</string>
+    <string name="main_btn_apps">Prze. WWW</string>
+    <string name="main_btn_cook">Gotowanie</string>
+    <string name="main_btn_mall">Zakupy</string>
+    <string name="main_btn_stock">GOV</string>
+    <string name="main_btn_map">Mapy google</string>
+
+    <string name="logger_text_no">Nr</string>
+    <string name="logger_text_data">Treść</string>
+    <string name="logger_text_ts">Data</string>
+
+    <string name="logger_view_title">"Treść SMS"</string>
+    <string name="logger_view_ok">"OK"</string>
+
+    <string name="logger_notify_title">"Otrzymano wiadomość serwisową"</string>
+
+    <string name="brower_webtalk_query">"Wysyłanie zapytania urządzenia!"</string>
+    <string name="brower_webtalk_call">"Łączenie:"</string>
+    <string name="brower_webtalk_err">"Połączenie nie powiodło się !"</string>
+
+    <string name="brower_loading">"Wgrywanie..."</string>
+    <string name="brower_err_title">"BŁĄD"</string>
+    <string name="brower_err_prompt">"Usługa nie może być uruchomiona !"</string>
+    <string name="brower_err_ok">"OK"</string>
+</resources>
